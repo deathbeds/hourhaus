@@ -1,6 +1,6 @@
 # `hourhaus`
 
-a tried and tested binder for you to use in conjunction with your content through nbgitpuller.
+a tried and tested binder for you to use in conjunction with your content through nbgitpuller. this binder is designed specifically for ephemeral interactions that last ~one hour.
 
 ## features
 
