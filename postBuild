@@ -1,1 +1,11 @@
-python -m hourhaus
+#!/usr/bin/env bash
+export NOW=$(date -Ins)
+echo "# NOW: ${NOW}"  >> hourhouse.txt
+pip freeze            >> hourhouse.txt
+
+# bau
+python -m hourhaus || echo >> ERROR.txt
+
+export THEN=$(date -Ins)
+echo "# THEN: ${THEN}" >> hourhouse.txt
+pip freeze             >> hourhouse.txt
