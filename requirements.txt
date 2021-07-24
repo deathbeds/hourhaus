@@ -1,16 +1,20 @@
 nox
 doit
 flit
-jupyterlab==3.1.0rc1
+jupyterlab==3.1.0rc2
 jupyterlab-link-share
 jupyter-videochat
+jupyterlab-geojson
 
+dask-labextension
+bokeh
+hvplot
 
 altair
 vega_datasets
-bokeh
+
+# widgets
 bqplot
-evidently
 ipyleaflet
 ipysheet
 ipywebrtc
@@ -20,16 +24,12 @@ itkwidgets
 lux-api
 mpld3
 pythreejs
-wxyz_core
-wxyz_datagrid
-wxyz_html
-wxyz_dvcs
-wxyz_json_e
-wxyz_json_schema_form
-wxyz_jsonld
-wxyz_lab
-wxyz_svg
-wxyz_tpl_jinja
-wxyz_yaml
 tqdm
-jupyterlab-geojson
+
+# other
+evidently
+
+# deathbeds
+wxyz_notebooks
+ipydrawio
+jupyter-starters
