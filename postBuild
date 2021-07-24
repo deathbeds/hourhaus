@@ -1,5 +1,9 @@
 #!/usr/bin/env bash
+set -xu
+
+export CONDA_EXE=mamba
 export NOW=$(date -Ins)
+
 echo "# NOW: ${NOW}"  >> hourhouse.txt
 pip freeze            >> hourhouse.txt
 
