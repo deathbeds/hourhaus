@@ -1,4 +1,4 @@
-from nox import session
+import nox
 
 @nox.session(venv_backend="conda", reuse_venv=True)
 def sphinx(session):
