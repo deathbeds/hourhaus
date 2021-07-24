@@ -1,0 +1,15 @@
+{
+    "VideoChat": {
+        "room_prefix": "litprog-writers-workshop",
+        "rooms": [
+            {
+                "id": "bounce-house",
+                "displayName": "where the party is at",
+                "description": "writers workshop class room"
+            }
+        ]
+    },
+    "LabApp": {
+        "collaborative": true
+    }
+}
