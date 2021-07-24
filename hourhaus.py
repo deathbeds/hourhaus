@@ -1,3 +1,5 @@
+DOIT_CONFIG = dict(verbosity=2)
+
 def task_install_nox():
     return dict(actions=["nox --install-only"])
 
