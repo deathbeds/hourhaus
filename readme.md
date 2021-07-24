@@ -9,3 +9,7 @@ a tried and tested binder for you to use in conjunction with your content throug
 - [ ] jit.si video chat
 - [ ] jupyter real time collaboration
 - [ ] reusable for common deploy strategies
+
+## background
+
+our first attempt at a bitchin binder was before the new extension, [_fam](https://github.com/deathbeds/_fam)
