@@ -1,5 +1,7 @@
 # `hourhaus`
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deathbeds/hourhaus/HEAD)
+
 a tried and tested binder for you to use in conjunction with your content through nbgitpuller. this binder is designed specifically for ephemeral interactions that last ~one hour.
 
 ## features
