@@ -28,6 +28,22 @@ datashader
 hvplot
 panel
 
+# testing
+pytest
+pytest-sugar
+pytest-cov
+hypothesis
+hypothesis-jsonschema
+nbval
+coverage
+
+# json
+jsonschema
+jsonpatch
+jsondiff
+pyld
+json-e
+
 # widgets
 bqplot
 ipylab
@@ -42,6 +58,21 @@ mpld3
 pythreejs
 tqdm
 ipyelk
+nbdime
+
+# markup
+markdown-it-py[plugins]
+toml
+tomlkit
+configupdater
+emoji
+pathspec
+parse
+maya
+
+
+# rfc
+strict_rfc3339
 
 # serve
 fastapi
@@ -49,6 +80,8 @@ flask
 datasette
 
 # tui
+typer
+rich
 visidata
 plotille
 
@@ -67,3 +100,8 @@ python-lsp-black
 wxyz_notebooks
 ipydrawio
 jupyter-starters
+
+# data
+sqlite-utils
+python-dotenv
+appdirs
