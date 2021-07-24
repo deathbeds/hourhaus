@@ -1,15 +1,22 @@
+# hourhaus bau
 nox
 doit
 flit
+
+# jupyter core
 jupyterlab==3.1.0rc2
 jupyterlab-link-share
 jupyter-videochat
 jupyterlab-geojson
+nbgitpuller
 
+# panel, et al
 dask-labextension
 bokeh
 hvplot
+panel
 
+# vegaverse
 altair
 vega_datasets
 
