@@ -3,38 +3,65 @@ nox
 doit
 flit
 
-# jupyter core
+# jupyter applications
 jupyterlab==3.1.0rc2
+nteract-on-jupyter
+retrolab
+papermill
+
+# binder gear
 jupyterlab-link-share
 jupyter-videochat
-jupyterlab-geojson
 nbgitpuller
+jupyter-server-proxy
 
-# panel, et al
-dask-labextension
-bokeh
-hvplot
-panel
-
-# vegaverse
+# mime
+jupyterlab-geojson
 altair
 vega_datasets
 
+# panel, et al
+bokeh
+dask-labextension
+dask-ml
+datashader
+hvplot
+panel
+
 # widgets
 bqplot
+ipylab
 ipyleaflet
 ipysheet
+ipyvolume
 ipywebrtc
 ipywidgets
-ipyvolume
 itkwidgets
 lux-api
 mpld3
 pythreejs
 tqdm
+ipyelk
+
+# serve
+fastapi
+flask
+datasette
+
+# tui
+visidata
+plotille
 
 # other
 evidently
+
+# lsp
+json-lsp
+jupyterlab-lsp
+pyls-isort
+pyls-memestra
+pylsp-mypy
+python-lsp-black
 
 # deathbeds
 wxyz_notebooks
