@@ -1,8 +1,10 @@
 # `hourhaus`
 
 [![JupyterLab Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deathbeds/hourhaus/HEAD?urlpath=lab)
-[![RetroLab Binder](https://img.shields.io/badge/%F0%9F%8C%85-retro-orange)](https://mybinder.org/v2/gh/deathbeds/hourhaus/HEAD?urlpath=retro)
-[![Classic Binder](https://img.shields.io/badge/%F0%9F%8C%85-retro-orange)](https://mybinder.org/v2/gh/deathbeds/hourhaus/HEAD)
+
+[![RetroLab Binder](https://img.shields.io/badge/%F0%9F%8C%85-retro-yellow)](https://mybinder.org/v2/gh/deathbeds/hourhaus/HEAD?urlpath=retro)
+
+[![Classic Binder](https://img.shields.io/badge/🏚️-classic-orange)](https://mybinder.org/v2/gh/deathbeds/hourhaus/HEAD)
 
 a tried and tested binder for you to use in conjunction with your content through nbgitpuller. this binder is designed specifically for ephemeral interactions that last ~one hour.
 
