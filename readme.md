@@ -1,10 +1,12 @@
 # `hourhaus`
 
-[![JupyterLab Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deathbeds/hourhaus/HEAD?urlpath=lab)
+[![content](https://img.shields.io/badge/⛪-STYLE-red)](https://gke2.mybinder.org/v2/gh/deathbeds/hourhaus/writers-workshop-7-29-2021?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgist.github.com%252Ftonyfast%252F359ed1f7d2df21d9e79c0f996f795d57%26urlpath%3Dlab%252Ftree%252F359ed1f7d2df21d9e79c0f996f795d57%252Fstyle.ipynb%26branch%3Dmaster)
 
-[![RetroLab Binder](https://img.shields.io/badge/%F0%9F%8C%85-retro-yellow)](https://mybinder.org/v2/gh/deathbeds/hourhaus/HEAD?urlpath=retro)
+[![JupyterLab Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deathbeds/hourhaus/writers-workshop-7-29-2021?urlpath=lab)
 
-[![Classic Binder](https://img.shields.io/badge/🏚️-classic-orange)](https://mybinder.org/v2/gh/deathbeds/hourhaus/HEAD)
+[![RetroLab Binder](https://img.shields.io/badge/%F0%9F%8C%85-retro-yellow)](https://mybinder.org/v2/gh/deathbeds/hourhaus/writers-workshop-7-29-2021?urlpath=retro)
+
+[![Classic Binder](https://img.shields.io/badge/🏚️-classic-orange)](https://mybinder.org/v2/gh/deathbeds/hourhaus/writers-workshop-7-29-2021)
 
 a tried and tested binder for you to use in conjunction with your content through nbgitpuller. this binder is designed specifically for ephemeral interactions that last ~one hour.
 
