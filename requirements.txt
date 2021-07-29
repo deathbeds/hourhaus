@@ -1,4 +1,4 @@
-git+https://github.com/deathbeds/pidgy/pidgy@new-parser
+git+https://github.com/deathbeds/pidgy@new-parser
 
 # hourhaus bau
 nox
