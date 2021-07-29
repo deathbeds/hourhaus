@@ -1,10 +1,12 @@
-# `hourhaus`
+# `hourhaus` for prefect
 
-[![JupyterLab Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deathbeds/hourhaus/HEAD?urlpath=lab)
+[![content](https://img.shields.io/badge/⁉️-prefect%20example-orange)](https://gke2.mybinder.org/v2/gh/deathbeds/hourhaus/prefect-environment?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fpeytondmurray%252Fblog-up-and-running-with-prefect%26urlpath%3Dlab%252Ftree%252Fblog-up-and-running-with-prefect%252F%26branch%3Dmain)
 
-[![RetroLab Binder](https://img.shields.io/badge/%F0%9F%8C%85-retro-yellow)](https://mybinder.org/v2/gh/deathbeds/hourhaus/HEAD?urlpath=retro)
+[![JupyterLab Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/deathbeds/hourhaus/prefect-environment?urlpath=lab)
 
-[![Classic Binder](https://img.shields.io/badge/🏚️-classic-orange)](https://mybinder.org/v2/gh/deathbeds/hourhaus/HEAD)
+[![RetroLab Binder](https://img.shields.io/badge/%F0%9F%8C%85-retro-yellow)](https://mybinder.org/v2/gh/deathbeds/hourhaus/prefect-environment?urlpath=retro)
+
+[![Classic Binder](https://img.shields.io/badge/🏚️-classic-orange)](https://mybinder.org/v2/gh/deathbeds/hourhaus/prefect-environment)
 
 a tried and tested binder for you to use in conjunction with your content through nbgitpuller. this binder is designed specifically for ephemeral interactions that last ~one hour.
 
