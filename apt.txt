@@ -4,3 +4,4 @@ texlive-fonts-recommended
 texlive-fonts-extra
 texlive-xetex
 latexmk
+graphviz
