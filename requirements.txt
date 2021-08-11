@@ -1,3 +1,6 @@
+git+https://github.com/deathbeds/pidgy@new-parser
+graphviz
+
 # hourhaus bau
 nox
 doit
