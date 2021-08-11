@@ -1,3 +1,4 @@
+prefect
 git+https://github.com/deathbeds/pidgy@new-parser
 graphviz
 
@@ -30,6 +31,7 @@ dask-ml
 datashader
 hvplot
 panel
+holoviews
 
 # testing
 pytest
@@ -108,3 +110,9 @@ jupyter-starters
 sqlite-utils
 python-dotenv
 appdirs
+
+# tensor trash
+stable-baselines3
+tensorboardx
+gym
+pybullet
