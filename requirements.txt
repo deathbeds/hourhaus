@@ -112,5 +112,6 @@ python-dotenv
 appdirs
 
 # tensor trash
-stable-baselines3[extras]
+stable-baselines3
+tensorboardx
 gym
