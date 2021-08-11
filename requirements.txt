@@ -115,3 +115,4 @@ appdirs
 stable-baselines3
 tensorboardx
 gym
+pybullet
