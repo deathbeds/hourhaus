@@ -11,6 +11,7 @@ jupyterlab==3.1.0rc2
 nteract-on-jupyter
 retrolab
 papermill
+jupyterlab-fonts
 
 # binder gear
 jupyterlab-link-share
