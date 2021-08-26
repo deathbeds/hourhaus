@@ -12,6 +12,7 @@ nteract-on-jupyter
 retrolab
 papermill
 jupyterlab-fonts
+jupyterlab-markup
 
 # binder gear
 jupyterlab-link-share
