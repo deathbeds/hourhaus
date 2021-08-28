@@ -6,6 +6,8 @@
 
 [![Classic Binder](https://img.shields.io/badge/🏚️-classic-orange)](https://mybinder.org/v2/gh/deathbeds/hourhaus/HEAD)
 
+[![Jitsi Room](https://img.shields.io/badge/📹-videochat-blue)](https://meet.jit.si/litprog-writers-workshopbounce-house)
+
 a tried and tested binder for you to use in conjunction with your content through nbgitpuller. this binder is designed specifically for ephemeral interactions that last ~one hour.
 
 ## features
