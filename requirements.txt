@@ -1,4 +1,4 @@
-git+https://github.com/deathbeds/pidgy@new-parser
+git+https://github.com/deathbeds/pidgy@minimal-parser
 graphviz
 
 # hourhaus bau
@@ -7,7 +7,7 @@ doit
 flit
 
 # jupyter applications
-jupyterlab==3.1.0rc2
+jupyterlab
 nteract-on-jupyter
 retrolab
 papermill
@@ -110,3 +110,6 @@ jupyter-starters
 sqlite-utils
 python-dotenv
 appdirs
+
+# vscode
+https://github.com/dirkcgrunwald/jupyter_codeserver_proxy-/archive/5596bc9c2fbd566180545fa242c659663755a427.tar.gz
