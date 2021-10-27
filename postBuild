@@ -8,6 +8,9 @@ export TERM=xterm
 echo "# NOW: ${NOW}"  >> hourhouse.txt
 pip freeze            >> hourhouse.txt
 
+conda install code-server
+code-server --install-extension ms-python.python
+
 # bau
 python -m hourhaus || echo >> ERROR.txt
 
