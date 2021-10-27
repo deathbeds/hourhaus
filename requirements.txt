@@ -54,6 +54,7 @@ panel
 pytest
 pytest-sugar
 pytest-cov
+pytest-json-report
 hypothesis
 hypothesis-jsonschema
 nbval
