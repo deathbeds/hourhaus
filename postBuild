@@ -3,7 +3,6 @@ set -xu
 
 export CONDA_EXE=mamba
 export NOW=$(date -Ins)
-export TERM=xterm
 
 echo "# NOW: ${NOW}"  >> hourhouse.txt
 pip freeze            >> hourhouse.txt
