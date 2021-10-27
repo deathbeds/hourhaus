@@ -3,6 +3,7 @@ set -xu
 
 export CONDA_EXE=mamba
 export NOW=$(date -Ins)
+export TERM=xterm
 
 echo "# NOW: ${NOW}"  >> hourhouse.txt
 pip freeze            >> hourhouse.txt
@@ -14,10 +15,6 @@ export THEN=$(date -Ins)
 echo "# THEN: ${THEN}" >> hourhouse.txt
 pip freeze             >> hourhouse.txt
 
-
-
-echo "import pty; pty.spawn('/bin/bash')" > /tmp/asdf.py
-python /tmp/asdf.py
 
 # ====== code-server install/config
 mkdir -p /opt/code_server
