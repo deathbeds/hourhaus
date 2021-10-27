@@ -1,4 +1,4 @@
-git+https://github.com/deathbeds/pidgy@new-parser
+git+https://github.com/deathbeds/pidgy@minimal-parser
 graphviz
 
 # hourhaus bau
@@ -7,7 +7,7 @@ doit
 flit
 
 # jupyter applications
-jupyterlab==3.1.0rc2
+jupyterlab
 nteract-on-jupyter
 retrolab
 papermill
@@ -19,6 +19,23 @@ jupyterlab-link-share
 jupyter-videochat
 nbgitpuller
 jupyter-server-proxy
+
+# jupyterlab_search_replace
+jupyterlab-unfold
+jupyterlab-spreadsheet-editor
+jupyterlab-fileopen
+jupyter-archive
+jupyterlab-spellchecker
+jupyterlab-kernelspy
+jupyterlab-tour
+jupyterlab-plugin-graph
+jupyterlab_vim
+jupyterlab-cell-flash
+jupyterlab-favorites
+jupyterlab-recents
+jupyterlab-topbar
+jlab-enhanced-launcher
+jlab-enhanced-cell-toolbar
 
 # mime
 jupyterlab-geojson
@@ -37,6 +54,7 @@ panel
 pytest
 pytest-sugar
 pytest-cov
+pytest-json-report
 hypothesis
 hypothesis-jsonschema
 nbval
@@ -110,3 +128,4 @@ jupyter-starters
 sqlite-utils
 python-dotenv
 appdirs
+git+https://github.com/betatim/vscode-binder
