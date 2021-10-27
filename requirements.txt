@@ -20,7 +20,7 @@ jupyter-videochat
 nbgitpuller
 jupyter-server-proxy
 
-jupyterlab_search_replace
+# jupyterlab_search_replace
 jupyterlab-unfold
 jupyterlab-spreadsheet-editor
 jupyterlab-fileopen
