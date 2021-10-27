@@ -20,6 +20,23 @@ jupyter-videochat
 nbgitpuller
 jupyter-server-proxy
 
+jupyterlab_search_replace
+jupyterlab-unfold
+jupyterlab-spreadsheet-editor
+jupyterlab-fileopen
+jupyter-archive
+jupyterlab-spellchecker
+jupyterlab-kernelspy
+jupyterlab-tour
+jupyterlab-plugin-graph
+jupyterlab_vim
+jupyterlab-cell-flash
+jupyterlab-favorites
+jupyterlab-recents
+jupyterlab-topbar
+jlab-enhanced-launcher
+jlab-enhanced-cell-toolbar
+
 # mime
 jupyterlab-geojson
 altair
