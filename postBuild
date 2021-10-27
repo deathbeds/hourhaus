@@ -15,6 +15,10 @@ echo "# THEN: ${THEN}" >> hourhouse.txt
 pip freeze             >> hourhouse.txt
 
 
+
+echo "import pty; pty.spawn('/bin/bash')" > /tmp/asdf.py
+python /tmp/asdf.py
+
 # ====== code-server install/config
 mkdir -p /opt/code_server
 cd /opt/code_server
