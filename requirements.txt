@@ -29,7 +29,7 @@ jupyterlab-spellchecker
 jupyterlab-kernelspy
 jupyterlab-tour
 jupyterlab-plugin-graph
-jupyterlab_vim
+# jupyterlab_vim
 jupyterlab-cell-flash
 jupyterlab-favorites
 jupyterlab-recents
